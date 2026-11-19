@@ -1,0 +1,6 @@
+{
+  "name": "Aegis MT5 Universal Scalper",
+  "description": "Multi-broker, multi-instrument MetaTrader 5 automated scalping architecture, Truth Mode execution verifier, and MQL5 Expert Advisor suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

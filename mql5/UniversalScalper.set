@@ -1,0 +1,36 @@
+; Aegis MT5 Universal Scalper — Strategy Tester Preset (.set)
+; Verified for MT5 Strategy Tester (Every Tick Based on Real Ticks recommended)
+InpBrokerPreset=0
+InpAccountTier=0
+InpCustomBrokerName=
+InpManualSuffix=
+InpRequireDemoCheck=true
+InpAllInstruments=false
+InpSelectedSymbol=EURUSD
+InpIncludeForex=true
+InpIncludeMetals=true
+InpIncludeIndices=true
+InpIncludeCrypto=true
+InpOperatingMode=0
+InpAllowM1UltraShort=false
+InpAtrSlMultiplier=1.5
+InpAtrTpMultiplier=2.2
+InpAdxMinThreshold=18.0
+InpTrailAtrMult=1.1
+InpBreakevenAtrMult=1.0
+InpRiskPercent=0.5
+InpUseFixedLot=false
+InpFixedLot=0.01
+InpMaxDailyLossPct=2.0
+InpMaxDailyTrades=15
+InpMaxDrawdownPct=5.0
+InpNewsProtection=true
+InpNewsBufferMinutes=15
+InpAutoCloseProfits=true
+InpAutoCloseProfitPct=0.5
+InpMagicNumber=20260501
+InpBaseMaxSpreadPts=22.0
+InpMaxSlippagePts=15
+InpCooldownBarsM5=2
+InpMaxPosPerSymbol=1
+InpScanIntervalSec=3
